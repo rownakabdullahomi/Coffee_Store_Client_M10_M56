@@ -9,6 +9,7 @@ function App() {
 
   return (
     <div className="m-20">
+      
       <h1 className="text-6xl text-center text-purple-600">
         Coffee Store: {coffees.length}
       </h1>
